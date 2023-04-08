@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-sh                9 hrs 54 mins   ██████████████▓░░░░░░░░░░   58.20 %
-Rust              6 hrs 22 mins   █████████▒░░░░░░░░░░░░░░░   37.39 %
-YAML              12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-Protocol Buffer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
-Markdown          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other             4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+sh                9 hrs 39 mins   ███████████████░░░░░░░░░░   59.48 %
+Rust              5 hrs 52 mins   █████████░░░░░░░░░░░░░░░░   36.17 %
+YAML              14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Protocol Buffer   12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Markdown          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+TOML              1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->

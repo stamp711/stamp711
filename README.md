@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📊 **My Weekly WakaTime Coding Activity**
+📊 **My Weekly WakaTime Activity**
 
 <!--START_SECTION:waka-->
 

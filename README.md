@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-sh         5 hrs 52 mins   ██████████████████░░░░░░░   72.30 %
-Rust       2 hrs 6 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.87 %
-Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
-Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+```txt
+sh         6 hrs 3 mins    ████████████████▒░░░░░░░░   64.86 %
+Rust       3 hrs 7 mins    ████████▒░░░░░░░░░░░░░░░░   33.52 %
+Docker     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Git        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->

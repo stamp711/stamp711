@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              13 hrs 32 mins  ███████████████▓░░░░░░░░░   62.42 %
-sh                5 hrs 29 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.27 %
-AutoHotkey        2 hrs 19 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-YAML              8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 %
-JSON              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Rust              14 hrs 42 mins  ███████████████▓░░░░░░░░░   62.41 %
+sh                6 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
+AutoHotkey        2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+YAML              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JSON              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```
 
 <!--END_SECTION:waka-->

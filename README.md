@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              14 hrs 42 mins  ███████████████▓░░░░░░░░░   62.41 %
-sh                6 hrs 11 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.31 %
-AutoHotkey        2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+Rust              15 hrs 35 mins  ████████████████▓░░░░░░░░   66.55 %
+sh                5 hrs 11 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.14 %
+AutoHotkey        2 hrs 19 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
 YAML              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 JSON              3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
 ```

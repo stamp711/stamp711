@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   2 hrs 59 mins   ████████████████████▒░░░░   80.89 %
-sh     42 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+Rust   2 hrs 59 mins   ████████████████████░░░░░   80.31 %
+sh     43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.59 %
 Git    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 

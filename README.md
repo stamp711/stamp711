@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh          4 hrs 54 mins   █████████████████░░░░░░░░   68.66 %
-Rust        1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.90 %
+sh          4 hrs 54 mins   █████████████████░░░░░░░░   68.65 %
+Rust        1 hr 51 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.91 %
 TOML        15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
 Docker      4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
 sshconfig   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %

@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh                4 hrs 40 mins   ████████████████▓░░░░░░░░   67.17 %
-Rust              1 hr 56 mins    ███████░░░░░░░░░░░░░░░░░░   27.90 %
-Markdown          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
-YAML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
-SSH Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+sh                4 hrs 21 mins   ████████████████▒░░░░░░░░   65.62 %
+Rust              1 hr 56 mins    ███████▒░░░░░░░░░░░░░░░░░   29.22 %
+Markdown          11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+YAML              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+SSH Config        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,11 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 43 mins   █████████████████▓░░░░░░░   70.33 %
-sh           54 mins         ██████░░░░░░░░░░░░░░░░░░░   23.48 %
-Rust         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.87 %
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
-Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JavaScript   2 hrs 43 mins   █████████████████▓░░░░░░░   71.26 %
+sh           52 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.73 %
+Rust         13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Text         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->

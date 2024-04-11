@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   4 mins          █████████████████████████   100.00 %
+Rust              1 hr 45 mins    ███████████████████▓░░░░░   78.42 %
+sh                29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.56 %
+Other             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

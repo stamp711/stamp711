@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   1 hr 55 mins    █████████████████▓░░░░░░░   70.25 %
-sh     48 mins         ███████▒░░░░░░░░░░░░░░░░░   29.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->

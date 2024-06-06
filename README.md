@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-sh      1 hr 41 mins    ███████████████████████▒░   93.44 %
-Rust    4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
-Other   2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+sh      1 hr 4 mins     ██████████████████████▓░░   90.01 %
+Rust    4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Other   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->

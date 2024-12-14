@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              1 hr 33 mins    ██████████████████████▒░░   88.84 %
-Protocol Buffer   11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.82 %
-TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Rust              50 mins         ████████████████████▒░░░░   81.16 %
+Protocol Buffer   11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.26 %
+TOML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
 ```
 
 <!--END_SECTION:waka-->

@@ -18,9 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              6 hrs 19 mins   ███████████████████████░░   92.05 %
-Protocol Buffer   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
-TOML              5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
+Rust              3 hrs 39 mins   ██████████████████▒░░░░░░   73.88 %
+Docker            1 hr 1 min      █████▒░░░░░░░░░░░░░░░░░░░   20.74 %
+Protocol Buffer   13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+TOML              1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->

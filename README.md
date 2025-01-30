@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Docker            1 hr 1 min      ████████▓░░░░░░░░░░░░░░░░   35.33 %
-TOML              58 mins         ████████▒░░░░░░░░░░░░░░░░   33.89 %
-Rust              51 mins         ███████▒░░░░░░░░░░░░░░░░░   29.65 %
-Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+TOML              58 mins         █████████████▓░░░░░░░░░░░   54.79 %
+Rust              46 mins         ███████████░░░░░░░░░░░░░░   43.38 %
+Protocol Buffer   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+Docker            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->

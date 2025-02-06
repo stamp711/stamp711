@@ -18,7 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+TOML              2 hrs 2 mins    █████████████████▒░░░░░░░   68.81 %
+Rust              53 mins         ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+Docker            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+Protocol Buffer   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->

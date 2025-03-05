@@ -18,8 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   4 hrs 39 mins   █████████████████████████   99.94 %
-TOML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Rust          5 hrs 9 mins    ████████████████████████▒   96.98 %
+C++           3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 %
+C             2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+TOML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->

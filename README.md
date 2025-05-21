@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     4 hrs           ███████████████░░░░░░░░░░   59.43 %
-Docker   2 hrs 33 mins   █████████▒░░░░░░░░░░░░░░░   37.90 %
-TOML     6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
-YAML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Rust     2 hrs 46 mins   █████████████████▒░░░░░░░   69.09 %
+Docker   1 hr 13 mins    ███████▓░░░░░░░░░░░░░░░░░   30.39 %
+YAML     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

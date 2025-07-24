@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     4 hrs 46 mins   ███████████████████████▒░   93.33 %
-Docker   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
-Other    6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Rust     6 hrs 32 mins   ████████████████████████░   96.61 %
+Docker   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 %
 YAML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 

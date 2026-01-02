@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+C++     2 hrs 38 mins   ██████████████████████▒░░   89.94 %
+CMake   17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 %
+jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->

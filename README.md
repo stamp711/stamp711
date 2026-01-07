@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++     2 hrs 58 mins   ██████████████████████▓░░   90.96 %
-CMake   17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.03 %
+C++     3 hrs 21 mins   ███████████████████████░░   91.90 %
+CMake   17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 %
 jsonc   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 

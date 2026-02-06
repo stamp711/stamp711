@@ -18,9 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++        4 hrs 49 mins   ████████████████████████░   96.57 %
-jsonc      7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+C++            5 hrs 10 mins   ███████████████████████▒░   92.75 %
+Python         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 %
+jsonc          7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+CMake          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+Markdown       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->

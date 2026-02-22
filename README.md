@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Nix        1 hr 12 mins          ████████████████████▓░░░░   83.07 %
-Markdown   8 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-C++        6 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 %
+Nix   0 secs                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->

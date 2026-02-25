@@ -18,7 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Nix   0 secs                █████████████████████████   100.00 %
+C++            33 mins               ████████████████████▒░░░░   80.67 %
+shell script   5 mins                ███▒░░░░░░░░░░░░░░░░░░░░░   13.97 %
+Nix            0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
+Markdown       0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+Docker         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
 ```
 
 <!--END_SECTION:waka-->

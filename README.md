@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-C++            6 hrs 12 mins         ████████████████████▓░░░░   83.02 %
-Other          54 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.20 %
-Bash           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-Python         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-shell script   3 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+C++            6 hrs 41 mins         ████████████████████▒░░░░   80.87 %
+Other          1 hr 13 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.77 %
+Bash           7 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python         4 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
+shell script   3 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->

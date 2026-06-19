@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Rust           14 hrs 28 mins        ███████████░░░░░░░░░░░░░░   43.74 %
-C++            6 hrs 17 mins         ████▓░░░░░░░░░░░░░░░░░░░░   19.02 %
-Markdown       4 hrs 49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.59 %
-Nix            3 hrs 31 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
-Text           1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Rust         14 hrs 17 mins        ███████████░░░░░░░░░░░░░░   44.52 %
+C++          5 hrs 41 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.71 %
+Markdown     5 hrs 37 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.50 %
+Nix          3 hrs 6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
+Text         1 hr 32 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 %
 ```
 
 <!--END_SECTION:waka-->

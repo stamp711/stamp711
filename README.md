@@ -18,11 +18,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-Nix               19 hrs 49 mins        ███████▓░░░░░░░░░░░░░░░░░   31.02 %
-C++               18 hrs 46 mins        ███████▒░░░░░░░░░░░░░░░░░   29.39 %
-Python            6 hrs 37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
-Markdown          5 hrs 11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Lua               4 hrs 25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Nix               21 hrs 27 mins        ████████░░░░░░░░░░░░░░░░░   31.55 %
+C++               17 hrs 53 mins        ██████▓░░░░░░░░░░░░░░░░░░   26.30 %
+Markdown          9 hrs 26 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.88 %
+Python            6 hrs 37 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
+Lua               4 hrs 35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
 ```
 
 <!--END_SECTION:waka-->

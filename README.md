@@ -5,54 +5,56 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 34 hrs 1 min        ████████████░░░░░░░░░░░░░   49.69 % 
-Nix                      15 hrs 15 mins      ██████░░░░░░░░░░░░░░░░░░░   22.28 % 
-C++                      8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.83 % 
-Other                    4 hrs 47 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Python                   3 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Markdown                 37 hrs 8 mins       ████████████░░░░░░░░░░░░░   49.93 % 
+Nix                      18 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+C++                      5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Other                    5 hrs 7 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Python                   2 hrs 40 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
 
 🔥 Editors: 
-Claude Code              57 hrs 21 mins      █████████████████████░░░░   83.78 % 
-Neovim                   9 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
-VS Code                  1 hr 32 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
-Exec Wakatime            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Claude Code              53 hrs 20 mins      ██████████████████░░░░░░░   71.72 % 
+Neovim                   11 hrs 57 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
+VS Code                  8 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
+OpenCode                 54 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 
 🐱‍💻 Projects: 
-nixie                    11 hrs 58 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-nix                      11 hrs 42 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.10 % 
-6b025449-4fe4-4183-9352-19 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-f3d9cf5d-9bbf-4b91-aeb2-87 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-lg-store                 4 hrs 55 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+nix                      15 hrs 11 mins      █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
+nixie                    12 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+6b025449-4fe4-4183-9352-19 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.10 % 
+f3d9cf5d-9bbf-4b91-aeb2-87 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
+raft-agents              5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 💻 Operating System: 
-Linux                    66 hrs 18 mins      ████████████████████████░   96.84 % 
-Mac                      1 hr 11 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
-WSL                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Linux                    72 hrs 24 mins      ████████████████████████░   97.34 % 
+Mac                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+WSL                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 63 hrs 55 mins (93.36%)
+⏱ AI Coding Time: 68 hrs 16 mins (91.78%)
 
-✍️ 14,065 lines written by AI, 8,385 lines written by hand (62.65% AI-written)
+✍️ 20,869 lines written by AI, 941 lines written by hand (95.69% AI-written)
 
-🔤 2,862,931,751 Input Tokens, 5,203,094 Output Tokens
+🔤 3,171,159,797 Input Tokens, 5,598,599 Output Tokens
 
-💵 $12314.24 Estimated AI Cost This Week
+💵 $14211.70 Estimated AI Cost This Week
 
-🧠 81 AI Sessions, 1795 AI Prompts
+🧠 128 AI Sessions, 1811 AI Prompts
 
-Claude                   7,557 lines         █████████████░░░░░░░░░░░░   50.86 % 
-Opus                     7,085 lines         ████████████░░░░░░░░░░░░░   47.69 % 
-Fable                    116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-GPT                      99 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+GPT                      8,238 lines         █████████░░░░░░░░░░░░░░░░   37.94 % 
+Opus                     7,541 lines         █████████░░░░░░░░░░░░░░░░   34.73 % 
+Claude                   5,816 lines         ███████░░░░░░░░░░░░░░░░░░   26.79 % 
+Fable                    116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Openrouter               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 62.65% of written lines came from AI
-📝 Concise Prompter — average 285 characters per prompt
-🔁 Iterative Prompter — average 22 prompts per session
-🚀 High AI Trust — 37.6% of changed lines were hand-edited
+🤖 AI-Driven — 95.69% of written lines came from AI
+📝 Concise Prompter — average 294 characters per prompt
+🔁 Iterative Prompter — average 14 prompts per session
+🚀 High AI Trust — 6.95% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 

@@ -7,56 +7,55 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 38 hrs 31 mins      ████████████░░░░░░░░░░░░░   47.60 % 
-Nix                      19 hrs 55 mins      ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Other                    7 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.67 % 
-Python                   4 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
-Rust                     3 hrs 23 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 % 
+Markdown                 40 hrs 54 mins      ████████████░░░░░░░░░░░░░   46.65 % 
+Nix                      18 hrs 28 mins      █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Other                    7 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
+Rust                     5 hrs 58 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+C++                      3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 % 
 
 🔥 Editors: 
-Claude Code              57 hrs 18 mins      ██████████████████░░░░░░░   70.81 % 
-Neovim                   11 hrs 47 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
-VS Code                  10 hrs 42 mins      ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
-OpenCode                 1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+Claude Code              59 hrs 59 mins      █████████████████░░░░░░░░   68.41 % 
+VS Code                  13 hrs 33 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.47 % 
+Neovim                   12 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+OpenCode                 1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Opencode Cli             7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-raft-agents              42 hrs 58 mins      █████████████░░░░░░░░░░░░   53.10 % 
-nix                      19 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-nixie                    12 hrs 5 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.93 % 
-Unknown Project          1 hr 28 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-torch                    1 hr 8 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
+raft-agents              49 hrs 50 mins      ██████████████░░░░░░░░░░░   56.83 % 
+nix                      18 hrs 36 mins      █████░░░░░░░░░░░░░░░░░░░░   21.23 % 
+nixie                    12 hrs 5 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Unknown Project          1 hr 23 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+torch                    1 hr 18 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 💻 Operating System: 
-Linux                    78 hrs 57 mins      ████████████████████████░   97.56 % 
-Mac                      59 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
-WSL                      58 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Linux                    87 hrs 11 mins      █████████████████████████   99.44 % 
+Mac                      29 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 74 hrs 37 mins (92.21%)
+⏱ AI Coding Time: 81 hrs 11 mins (92.6%)
 
-✍️ 22,306 lines written by AI, 950 lines written by hand (95.92% AI-written)
+✍️ 22,799 lines written by AI, 1,207 lines written by hand (94.97% AI-written)
 
-🔤 3,369,076,705 Input Tokens, 5,794,700 Output Tokens
+🔤 3,898,290,800 Input Tokens, 6,435,412 Output Tokens
 
-💵 $15315.81 Estimated AI Cost This Week
+💵 $18090.75 Estimated AI Cost This Week
 
-🧠 160 AI Sessions, 1904 AI Prompts
+🧠 183 AI Sessions, 2000 AI Prompts
 
-GPT                      10,003 lines        ███████████░░░░░░░░░░░░░░   42.90 % 
-Opus                     7,541 lines         ████████░░░░░░░░░░░░░░░░░   32.34 % 
-Claude                   5,266 lines         ██████░░░░░░░░░░░░░░░░░░░   22.59 % 
-Openrouter               389 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Fable                    116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+GPT                      12,578 lines        █████████████░░░░░░░░░░░░   52.21 % 
+Opus                     7,541 lines         ████████░░░░░░░░░░░░░░░░░   31.30 % 
+Claude                   3,469 lines         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
+Openrouter               389 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+Fable                    116 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 95.92% of written lines came from AI
-📝 Concise Prompter — average 372 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 6.52% of changed lines were hand-edited
+🤖 AI-Driven — 94.97% of written lines came from AI
+📄 Detailed Prompter — average 936 characters per prompt
+🔁 Iterative Prompter — average 11 prompts per session
+🚀 High AI Trust — 7.83% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 

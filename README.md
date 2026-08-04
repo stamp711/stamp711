@@ -1,61 +1,59 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-647%20hrs%209%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 27 hrs 53 mins      ████████░░░░░░░░░░░░░░░░░   33.16 % 
-Nix                      18 hrs 17 mins      █████░░░░░░░░░░░░░░░░░░░░   21.76 % 
-Other                    11 hrs 46 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
-C++                      8 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.70 % 
-Rust                     6 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.20 % 
+Nix                      24 hrs 5 mins       ███████████░░░░░░░░░░░░░░   43.46 % 
+C++                      14 hrs 5 mins       ██████░░░░░░░░░░░░░░░░░░░   25.41 % 
+Rust                     6 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Python                   4 hrs 25 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.98 % 
+Other                    1 hr 6 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 
 🔥 Editors: 
-Claude Code              55 hrs 35 mins      █████████████████░░░░░░░░   66.09 % 
-Neovim                   13 hrs 34 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-VS Code                  13 hrs 24 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.95 % 
-OpenCode                 1 hr                ░░░░░░░░░░░░░░░░░░░░░░░░░   01.19 % 
-Codex CLI                22 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Neovim                   23 hrs 39 mins      ███████████░░░░░░░░░░░░░░   42.69 % 
+Claude Code              16 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   29.64 % 
+VS Code                  14 hrs 25 mins      ███████░░░░░░░░░░░░░░░░░░   26.04 % 
+Codex CLI                35 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
+OpenCode                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🐱‍💻 Projects: 
-raft-agents              48 hrs 24 mins      ██████████████░░░░░░░░░░░   57.55 % 
-nix                      19 hrs 25 mins      ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-nixie                    7 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-byterpc                  3 hrs 47 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 % 
-torch                    1 hr 17 mins        ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+nix                      31 hrs 47 mins      ██████████████░░░░░░░░░░░   57.35 % 
+byterpc                  7 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.69 % 
+torch                    5 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+lg-store                 2 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+lg-store-client          2 hrs 1 min         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 
 💻 Operating System: 
-Linux                    83 hrs 44 mins      █████████████████████████   99.57 % 
-Mac                      21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
+Linux                    54 hrs 34 mins      █████████████████████████   98.48 % 
+Mac                      50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 75 hrs 53 mins (90.23%)
+⏱ AI Coding Time: 40 hrs 35 mins (73.24%)
 
-✍️ 21,325 lines written by AI, 2,223 lines written by hand (90.56% AI-written)
+✍️ 18,498 lines written by AI, 2,481 lines written by hand (88.17% AI-written)
 
-🔤 3,713,421,723 Input Tokens, 5,385,574 Output Tokens
+🔤 1,666,359,863 Input Tokens, 2,640,230 Output Tokens
 
-💵 $18302.45 Estimated AI Cost This Week
+💵 $8338.24 Estimated AI Cost This Week
 
-🧠 171 AI Sessions, 1415 AI Prompts
+🧠 118 AI Sessions, 352 AI Prompts
 
-GPT                      15,846 lines        █████████████████░░░░░░░░   69.37 % 
-Opus                     6,379 lines         ███████░░░░░░░░░░░░░░░░░░   27.93 % 
-Openrouter               389 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-Fable                    115 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-Claude                   113 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+GPT                      18,656 lines        ███████████████████████░░   91.50 % 
+Opus                     1,354 lines         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Openrouter               378 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+DeepSeek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 90.56% of written lines came from AI
-📄 Detailed Prompter — average 1,286 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 14.1% of changed lines were hand-edited
+🤖 AI-Driven — 88.17% of written lines came from AI
+📄 Detailed Prompter — average 714 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 17.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 

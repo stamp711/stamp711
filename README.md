@@ -1,6 +1,4 @@
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-617%20hrs%2027%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -30,32 +28,6 @@ lg-store                 3 hrs 33 mins       ██░░░░░░░░░�
 💻 Operating System: 
 Linux                    58 hrs 2 mins       █████████████████████████   98.62 % 
 Mac                      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 41 hrs 30 mins (70.51%)
-
-✍️ 12,669 lines written by AI, 3,331 lines written by hand (79.18% AI-written)
-
-🔤 1,760,743,062 Input Tokens, 2,519,122 Output Tokens
-
-💵 $8871.56 Estimated AI Cost This Week
-
-🧠 86 AI Sessions, 296 AI Prompts
-
-GPT                      10,984 lines        ███████████████████░░░░░░   75.93 % 
-Opus                     3,349 lines         ██████░░░░░░░░░░░░░░░░░░░   23.15 % 
-Openrouter               133 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Fable                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 79.18% of written lines came from AI
-📄 Detailed Prompter — average 830 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 27.97% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Rust** 

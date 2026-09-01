@@ -5,27 +5,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-C++                      9 hrs 32 mins       ███████████░░░░░░░░░░░░░░   45.06 % 
-Other                    5 hrs 41 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-Nix                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Text                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Markdown                 55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Other                    9 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   37.07 % 
+C++                      8 hrs 20 mins       ████████░░░░░░░░░░░░░░░░░   33.75 % 
+Nix                      2 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
+Text                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
 
 🔥 Editors: 
-Claude Code              15 hrs 56 mins      ███████████████████░░░░░░   75.28 % 
-Neovim                   5 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Claude Code              19 hrs 37 mins      ████████████████████░░░░░   79.36 % 
+Neovim                   5 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 🐱‍💻 Projects: 
-lg-store-client          9 hrs 14 mins       ███████████░░░░░░░░░░░░░░   43.65 % 
-lg-store                 7 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   34.66 % 
-nix                      1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
-Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 % 
-lgstore-nexus            37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+lg-store-client          9 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   40.33 % 
+lg-store                 7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.17 % 
+nix                      2 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+transfer_engine          2 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.90 % 
+Unknown Project          49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.30 % 
 
 💻 Operating System: 
-Linux                    19 hrs 15 mins      ███████████████████████░░   90.90 % 
-Mac                      1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.10 % 
+Linux                    22 hrs 6 mins       ██████████████████████░░░   89.39 % 
+Mac                      2 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
 ```
 
 **I Mostly Code in Rust** 

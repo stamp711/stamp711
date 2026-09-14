@@ -5,23 +5,19 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      1 hr 37 mins        ███████████████░░░░░░░░░░   58.57 % 
-Markdown                 29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-Other                    24 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.59 % 
-Diff                     14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Nix                      1 hr 3 mins         ████████████████████░░░░░   79.71 % 
+Other                    16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.29 % 
 
 🔥 Editors: 
-Claude Code              1 hr 40 mins        ███████████████░░░░░░░░░░   60.74 % 
-Neovim                   1 hr 5 mins         ██████████░░░░░░░░░░░░░░░   39.26 % 
+Claude Code              1 hr 3 mins         ████████████████████░░░░░   79.73 % 
+Neovim                   16 mins             █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
 
 🐱‍💻 Projects: 
-nix                      2 hrs 10 mins       ████████████████████░░░░░   78.67 % 
-Unknown Project          29 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.89 % 
-transfer_engine          5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
+nix                      1 hr 20 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 26 mins       ██████████████████████░░░   88.02 % 
-Linux                    19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+Mac                      1 hr 14 mins        ███████████████████████░░   93.40 % 
+Linux                    5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 ```
 
 **I Mostly Code in Rust** 

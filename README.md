@@ -5,28 +5,28 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      21 hrs 40 mins      ████████████████████████░   95.87 % 
-Other                    24 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-Markdown                 20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
-Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
-Diff                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+Nix                      19 hrs 38 mins      ████████████████████████░   97.15 % 
+Other                    23 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Markdown                 10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Neovim                   15 hrs 18 mins      █████████████████░░░░░░░░   67.76 % 
-Claude Code              4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-Codex CLI                3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Neovim                   13 hrs 53 mins      █████████████████░░░░░░░░   68.71 % 
+Claude Code              4 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+Codex CLI                2 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 
 🐱‍💻 Projects: 
-nix                      20 hrs 29 mins      ███████████████████████░░   90.64 % 
-nixos-dgx-spark          1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-transfer_engine          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Downloads                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+nix                      19 hrs 48 mins      ████████████████████████░   97.95 % 
+transfer_engine          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+Downloads                6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+nixos-dgx-spark          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 💻 Operating System: 
-Mac                      11 hrs 44 mins      █████████████░░░░░░░░░░░░   51.95 % 
-Linux                    10 hrs 49 mins      ████████████░░░░░░░░░░░░░   47.90 % 
-WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Linux                    10 hrs 33 mins      █████████████░░░░░░░░░░░░   52.20 % 
+Mac                      9 hrs 37 mins       ████████████░░░░░░░░░░░░░   47.63 % 
+WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 ```
 
 **I Mostly Code in Rust** 

@@ -5,25 +5,23 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      15 hrs 5 mins       ████████████████████████░   97.98 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+Nix                      12 hrs 26 mins      ████████████████████████░   94.86 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
 jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Neovim                   11 hrs 27 mins      ███████████████████░░░░░░   74.43 % 
-Claude Code              3 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   22.12 % 
-Codex CLI                31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.45 % 
+Neovim                   9 hrs 22 mins       ██████████████████░░░░░░░   71.42 % 
+Claude Code              3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Codex CLI                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
 
 🐱‍💻 Projects: 
-nix                      15 hrs 6 mins       █████████████████████████   98.15 % 
-transfer_engine          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+nix                      12 hrs 50 mins      ████████████████████████░   97.83 % 
+transfer_engine          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    10 hrs 20 mins      █████████████████░░░░░░░░   67.15 % 
-Mac                      5 hrs 1 min         ████████░░░░░░░░░░░░░░░░░   32.63 % 
-WSL                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Linux                    10 hrs 27 mins      ████████████████████░░░░░   79.66 % 
+Mac                      2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
 ```
 
 **I Mostly Code in Rust** 

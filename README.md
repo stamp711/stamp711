@@ -5,23 +5,27 @@
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Nix                      12 hrs 26 mins      ████████████████████████░   94.86 % 
-Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-jjdescription            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Nix                      14 hrs 21 mins      ███████████████████████░░   91.77 % 
+Other                    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+Markdown                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+bigfile                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Neovim                   9 hrs 22 mins       ██████████████████░░░░░░░   71.42 % 
-Claude Code              3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
-Codex CLI                23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.99 % 
+Neovim                   10 hrs 35 mins      █████████████████░░░░░░░░   67.62 % 
+Claude Code              3 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.57 % 
+Codex CLI                1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Codex Vscode             34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
 
 🐱‍💻 Projects: 
-nix                      12 hrs 50 mins      ████████████████████████░   97.83 % 
-transfer_engine          16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
+nix                      15 hrs 16 mins      ████████████████████████░   97.61 % 
+transfer_engine          16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+nixos                    5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    10 hrs 27 mins      ████████████████████░░░░░   79.66 % 
-Mac                      2 hrs 40 mins       █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+Linux                    13 hrs 19 mins      █████████████████████░░░░   85.14 % 
+Mac                      2 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
 ```
 
 **I Mostly Code in Rust** 
